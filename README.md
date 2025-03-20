@@ -12,7 +12,7 @@ Household-Electricity-Consumption/
 │ ├── part_2.R # Feature Scaling and Anomaly Detection
 │ └── part_3.R # HMM Training and Analysis
 ├── reports/
-│ └── combined_report.pdf # The Project Report
+│ └── Household_Electricity_Consumption_Analysis.pdf # The Project Report
 ├── data/ # Contains the dataset
 │ └── household_power_consumption.txt
 └── README.md # This file
