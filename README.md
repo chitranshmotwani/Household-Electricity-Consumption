@@ -47,7 +47,7 @@ Household-Electricity-Consumption/
 
 ## **Combined Report**
 
-The combined report integrates the findings from all three assignments into a single document. It is structured as follows:
+The report integrates the findings of this project into a single document. It is structured as follows:
 
 1. **Introduction**  
    - Overview of the dataset and project objectives.  
