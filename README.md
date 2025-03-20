@@ -7,12 +7,12 @@ This project analyzes household electricity consumption data using **Hidden Mark
 ## **Project Structure**
 ```
 Household-Electricity-Consumption/
-├── scripts/ # Contains all code files
-│ ├── part_1.R # Code for Assignment 1: Data Exploration and Preparation
-│ ├── part_2.R # Code for Assignment 2: Feature Scaling and Anomaly Detection
-│ └── part_3.R # Code for Assignment 3: HMM Training and Analysis
-├── reports/ # Contains the combined report
-│ └── combined_report.pdf # Combined report for all three assignments
+├── scripts/
+│ ├── part_1.R # Data Exploration and Preparation
+│ ├── part_2.R # Feature Scaling and Anomaly Detection
+│ └── part_3.R # HMM Training and Analysis
+├── reports/
+│ └── combined_report.pdf # The Project Report
 ├── data/ # Contains the dataset
 │ └── household_power_consumption.txt
 └── README.md # This file
